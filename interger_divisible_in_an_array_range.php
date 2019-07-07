@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author gencyolcu
+ * @author Mofehintolu Mumuni
  * 
 
 Write a function:
